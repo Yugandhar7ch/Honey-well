@@ -1,3 +1,10 @@
+# Folder Structure
+                     
+		    Assignment/Backend/Assignment_SHA -> all the backend code in this folder
+		    Assignment/Downloaded_output_file -> output file after clicking download button
+                Assignment/Frontend               ->  All the front end code
+	                        
+
 # Backend
 
                        java-code-path	: Assignment_SHA\src\main\java\com\companyname\backend
@@ -11,7 +18,7 @@
  
  backend application port no : 8080
 
- # front end 
+ # Frontend 
                   index.html      :   html page
                   index.js        :  javascript file
                   styles.css      :  css styles
