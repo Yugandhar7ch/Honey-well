@@ -39,6 +39,9 @@ function submitForm() {
     });
 }
 
+/**
+ * Function to download signatures from the server and save them as a text file.
+ */
 function downloadSignatures() {
     fetch('http://localhost:8080/api/devices/signatures')
     .then(response => response.json())
