@@ -1,8 +1,8 @@
 # Folder Structure
                      
-		    Assignment/Backend/Assignment_SHA -> all the backend code in this folder
-		    Assignment/Downloaded_output_file -> output file after clicking download button
-                Assignment/Frontend               ->  All the front end code
+		    Assignment_Honeywell/Backend/Assignment_SHA -> all the backend code in this folder
+		    Assignment_Honeywell/Downloaded_output_file -> output file after clicking download button
+                Assignment_Honeywell/Frontend               ->  All the front end code
 	                        
 
 # Backend
